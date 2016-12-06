@@ -2,3 +2,5 @@
 # Stakater bugs
 
 Stakater has a large number of components. File issues here if you don't know the source of the problem.
+
+Project Tracker: https://waffle.io/stakater/bugs
